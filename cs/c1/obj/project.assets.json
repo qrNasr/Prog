@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/nk/Documents/Prog/cs/c1/c1.csproj",
+      "projectUniqueName": "/home/nk/Documents/Repo/Prog/cs/c1/c1.csproj",
       "projectName": "c1",
-      "projectPath": "/home/nk/Documents/Prog/cs/c1/c1.csproj",
+      "projectPath": "/home/nk/Documents/Repo/Prog/cs/c1/c1.csproj",
       "packagesPath": "/home/nk/.nuget/packages/",
-      "outputPath": "/home/nk/Documents/Prog/cs/c1/obj/",
+      "outputPath": "/home/nk/Documents/Repo/Prog/cs/c1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/nk/.nuget/NuGet/NuGet.Config"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
       }
     }
   }
